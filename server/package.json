@@ -14,5 +14,14 @@
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
         "postcss": "^8.1.14"
-    }
+    },
+    "dependencies": {
+        "postcss-import": "^15.1.0",
+        "postcss-loader": "^7.2.4",
+        "vue": "^2.7.14"
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions"
+    ]
 }
